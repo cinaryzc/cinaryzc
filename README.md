@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Çınar
 - 👀 I’m interested in Software
 - 🌱 I’m currently learning Html/Css/JS
+- 📚 I know Python, C# and little bit Html/Css/JS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me -----> omercyazici@gmail.com / mail
 
