@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @cinaryzc
+- 👋 Hi, I’m Çınar
 - 👀 I’m interested in Software
 - 🌱 I’m currently learning Html/Css/JS
 - 💞️ I’m looking to collaborate on ...
